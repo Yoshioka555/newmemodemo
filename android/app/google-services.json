@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "919432132407",
+    "project_id": "memodemo",
+    "storage_bucket": "memodemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919432132407:android:d4bbce5efe3109ad2a4cb2",
+        "android_client_info": {
+          "package_name": "com.example.memodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919432132407-5fft88rf2jnd36e0pakph5no21sftcs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsVmkVsaxQ-W-5wdgJdGY_GoTRCk51Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919432132407-5fft88rf2jnd36e0pakph5no21sftcs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919432132407-anq1v5epu8prib865rq34uogdgejdeft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.memodemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919432132407:android:850a4f8fc3e5f7352a4cb2",
+        "android_client_info": {
+          "package_name": "com.example.newmemodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919432132407-5fft88rf2jnd36e0pakph5no21sftcs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsVmkVsaxQ-W-5wdgJdGY_GoTRCk51Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919432132407-5fft88rf2jnd36e0pakph5no21sftcs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919432132407-anq1v5epu8prib865rq34uogdgejdeft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.memodemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
